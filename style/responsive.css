@@ -1,0 +1,19 @@
+@media only screen and (max-width: 576px) {
+  .nav-container {
+    flex-direction: column;
+  }
+  .items-section {
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+  }
+  .banner-section {
+    flex-direction: column;
+  }
+  .text-container {
+    width: 100%;
+  }
+  .banner-image-container {
+    width: 100%;
+  }
+}
