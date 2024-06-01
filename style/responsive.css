@@ -16,4 +16,7 @@
   .banner-image-container {
     width: 100%;
   }
+  .card-container {
+    grid-template-columns: repeat(1, 1fr);
+  }
 }
